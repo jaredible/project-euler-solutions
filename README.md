@@ -1,4 +1,4 @@
-# Project Euler Submissions
+# Project Euler Solutions
 
 ## Building
 
