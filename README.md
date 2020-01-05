@@ -4,8 +4,14 @@
 
 **MacOS / Linux**
 
-Add execute permissions if necessary:
+Build the executables:
 
 ```bash
-$ chmod u+x ./p<num>
+$ make
+```
+
+## Usage
+
+```
+Usage: ./p<num>
 ```
