@@ -1,5 +1,8 @@
-p1:
-	gcc p1.c -o p1.out
+TARGETS = p1 p2 p3
+
+all: $(TARGETS)
+
+$(TARGETS): %: %.c
 
 clean:
-	rm -f *.out
+	rm -f $(TARGETS)
