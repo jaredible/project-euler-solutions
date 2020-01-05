@@ -5,3 +5,5 @@
 ```bash
 $ python p<ddd>.py
 ```
+
+(d = digit)
