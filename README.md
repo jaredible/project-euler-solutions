@@ -3,5 +3,5 @@
 ## Usage
 
 ```bash
-$ python p<xxx>.py
+$ python p<ddd>.py
 ```
