@@ -1,6 +1,6 @@
 # Project Euler Submissions
 
-## Installing
+## Building
 
 **MacOS / Linux**
 
