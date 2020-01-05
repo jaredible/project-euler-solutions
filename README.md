@@ -12,6 +12,6 @@ $ make
 
 ## Usage
 
-```
-Usage: ./p<num>
+```bash
+$ ./p<num>
 ```
