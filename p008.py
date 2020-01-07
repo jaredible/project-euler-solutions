@@ -4,7 +4,7 @@ N = "731671765313306249192251196744265747423553491949349698352031277450632623957
 def compute(n):
     greatestProduct = -1
     step = 13
-    print("length: %d" % len(n))
+    #print("length: %d" % len(n))
     for i in range(len(n) - step + 1):
         substring = n[i:i + step]
         #print("i: %d, substring: %s" % (i, substring))
